@@ -1,0 +1,113 @@
+/* paste the navigation module CSS here */
+
+
+.navbar{
+	
+	background-image:url("images/prabhas.jpg");
+	margin-bottom: 20px;
+}
+.navbar-brand img{
+height: 2rem;
+margin-right:10px;
+position:relative;
+bottom:5px;
+
+}
+.navbar li{
+margin-right:10px;
+font-size: 20px;
+
+}
+
+
+/* end of the navigation module CSS  */
+
+
+/* paste the carousel module  CSS here */
+
+#carousel img
+{
+	height:550px;
+          
+}
+
+
+/* end of the carousel module CSS  */
+
+
+/* paste the three photo section module CSS  here*/
+
+#threePhotoSection img
+{
+	width:420px;
+	height:300px;
+border-radius:50%;
+}
+#threePhotoSection h3
+{
+margin-top:50px;
+margin-bottom:50px;
+}
+#threePhotoSection
+{
+	margin-bottom:30px;
+}
+
+/* end of the three photo section CSS  */
+
+
+/* paste the MoreAboutus module  CSS here */
+#moreAboutUs h3 
+{
+	padding:25px;
+	padding-bottom:40px;
+	color:white;
+}
+
+#moreAboutUs  blockquote
+{
+	padding:55px;
+	
+}
+#moreAboutUs
+{
+	background-image: url("images/ironman.jpg");
+	
+	 background-width: 100%;
+	color:white;
+}
+
+/* end of the MoreAboutus module  CSS*/
+
+
+/* paste the table module  CSS here */
+/* end of the table module  CSS */
+
+
+/* paste the contact module CSS  here */
+.contact{
+	 background-image: url("images/joker.jpg");
+	}
+
+/* end of the contact module  CSS */
+
+
+/* paste the button module CSS  here */
+.btn{
+	margin-left:auto;
+	margin-right:auto;display:block;
+	margin-bottom:50px;
+    margin-top:50px;
+}
+
+
+/* end of the button module CSS  */
+
+
+/* paste the footer module CSS  here */
+.footer{
+	background-image: url("images/ironman.jpg");
+	color:white;
+}
+
+/* end of the footer module CSS  */
